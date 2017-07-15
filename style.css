@@ -1,0 +1,22 @@
+
+img{
+	width: 100%;
+}
+.content{
+	padding: 10px;
+}
+
+.title{
+	padding: 10px;
+	color: grey;
+}
+.pera{
+	padding: 10px;
+	text-align: justify;
+	font-size: 18px;
+}
+.footer{
+	text-align: center;
+	color: white;
+	background: coral;
+}
